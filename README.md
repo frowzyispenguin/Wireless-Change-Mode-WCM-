@@ -1,4 +1,4 @@
-# Wireless-Change-Mode-WCM-
+# Wireless-Change-Mode
 an script for change wireless adapter mode ('managed' , 'monitor')
 
 it's really easy to use just type it
