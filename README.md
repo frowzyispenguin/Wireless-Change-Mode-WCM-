@@ -1,5 +1,5 @@
 # Wireless-Change-Mode
-an script for change wireless adapter mode ('managed' , 'monitor')
+this is script for changing wireless adapter mode ('managed' , 'monitor')
 
 it's really easy to use just type it
 - ` python WCM.py `
